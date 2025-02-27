@@ -1,5 +1,5 @@
 # Notes Demo
-A simple clean architecture notes app (jetpack compose)
+A Simple Clean Architecture Notes App (Jetpack Compose)
 
 # Features
 * 100% Kotlin
